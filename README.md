@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natitbc
-- 👀 I’m interested in Frontend deleloper
-- 🌱 I’m currently learning Javascript and React
+- 👀 Frontend deleloper
+
 
 <!---
 natitbc/natitbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
